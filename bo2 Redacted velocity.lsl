@@ -46,7 +46,7 @@
         <BackgroundColor>FFFFFFFF</BackgroundColor>
         <BackgroundColor2>FFFFFFFF</BackgroundColor2>
         <GraphColors>FF00F9FF</GraphColors>
-        <MinimumValue>1180</MinimumValue>
+        <MinimumValue>180</MinimumValue>
         <MaximumValue>500</MaximumValue>
         <GraphWidth>200</GraphWidth>
         <GraphHeight>70</GraphHeight>
